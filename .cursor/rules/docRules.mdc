@@ -1,0 +1,10 @@
+---
+description: 
+globs: *.md,*.mdc
+alwaysApply: false
+---
+# Docs Rules
+
+- Reduce redundancy
+- Be concise and to the point
+- Avoid ambiguity

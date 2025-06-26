@@ -1,0 +1,11 @@
+---
+description: 
+globs: *.ts,*.tsx,*.js
+alwaysApply: false
+---
+# Dev Rules
+
+- No gold plating
+- DRY principle
+- Single source of truth
+- Tiny chanfe
