@@ -6,8 +6,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "nx": "nx",
-    "lint": "eslint ."
+    "build": "npm -C ./apps/webtool-zbar-qr run  build"
   },
   "keywords": [],
   "author": "Joey Fang",
@@ -23,7 +22,6 @@
     "eslint-plugin-n": "^17.19.0",
     "eslint-plugin-promise": "^7.2.1",
     "eslint-plugin-react-hooks": "^5.2.0",
-    "nx": "^21.1.3",
     "prettier-config-standard": "^7.0.0",
     "typescript": "^5.8.3"
   }
